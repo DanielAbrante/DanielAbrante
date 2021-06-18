@@ -1,5 +1,13 @@
-<h1>Hi, I'm Daniel 👋</h1>
+# Hi, I'm Daniel :smile:
 
-<p>I'm a student of Information Systems who is passionate about technology like: videogames e open-source projects.</p>
-- 🌱 I’m currently learning C++ (studying the base) and JavaScript <br>
-- 📫 Do you want see my projects? <a href="https://danielabrante.github.io/" target="_blank">click here</a> 
+I'm a student of Information Systems who is passionate about technology like: video games and open-source projects.
+
+# Learning :book:
+
+- **C++** to study in depth about programming concepts, starting from basic to advanced. And in the long run I feel comfortable using it in game development.
+
+- **JavaScript** to projects web and mobile
+
+  ---
+
+Do you want see my portfolio? [click here](https://danielabrante.github.io/) :eyes:
