@@ -6,7 +6,9 @@ I'm a student of Information Systems who is passionate about technology like: vi
 
 - **C++** to study in depth about programming concepts, starting from basic to advanced. And in the long run I feel comfortable using it in game development.
 
-- **JavaScript** to projects web and mobile
+- **JavaScript** to projects web
+
+- **NodeJS** to back-end
 
   ---
 
