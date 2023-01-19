@@ -6,6 +6,7 @@ Open Source Projects that I've contributed with code or translations:
   - Godot
   - Aurora Store
   - Metadata Cleaner
+  - Chakra UI
 
 Checkout all translations: https://hosted.weblate.org/user/DanielAbrante/
 
